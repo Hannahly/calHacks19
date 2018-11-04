@@ -1,9 +1,0 @@
-@import "../../../variables";
-
-.queryDisplay {
-  padding: 0.25rem;
-
-  @media (min-device-width: $mobile-breakpoint) {
-    display: none;
-  }
-}
